@@ -13,3 +13,5 @@ env.bak/
 venv.bak/
 
 .eslintcache
+
+.DS_Store
