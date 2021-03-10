@@ -42,3 +42,33 @@ oecd_crs_sector_itep_map.csv,OECD CRS sector mapping sector code to ITEP sector,
 oecd_crs_donor_type_ref.csv,OECD DAC CRS donor type reference file,,Development Initiatives,DI,,,10/09/2020,repo,schema,oecd_crs_donor_type_ref,OECD DAC CRS donor type reference file,classifiers
 ,International Aid Transparency Initiative Transactions,IATI,International Aid Transparency Initiative,IATI,https://www.iatiregistry.org/,https://www.iatiregistry.org/,03/06/2020,repo,schema,iati_transactions,Transaction specification flat-file format calculated from the IATI Registry.,iati
 iati_publishers.csv,IATI Publishers,,Development Initiatives,DI,,,30/07/2020,repo,schema,iati_publishers,IATI Publisher metadata,iati
+,Reference for Uganda Indicators,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_indicators,Reference for SoU Indicators,SoU
+,Reference for SoU Districts,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_district,Reference for SoU Districts,SoU
+,Reference for SoU Budget Type,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_type,Reference for SoU Budget Type,SoU
+,Reference for SoU Theme,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_theme,Reference for SoU Theme,SoU
+,Reference for SoU Budget Level,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_level,Reference for SoU Budget Level,SoU
+,Reference for SoU Budget Level 1,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_level_1,Reference for SoU Budget Level 1,SoU
+,Reference for SoU Budget Level 2,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_level_2,Reference for SoU Budget Level 2,SoU
+,Reference for SoU Budget Level 3,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_level_3,Reference for SoU Budget Level 3,SoU
+,Reference for SoU Budget Level 4,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_level_4,Reference for SoU Budget Level 4,SoU
+,SoU Uganda Finance,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_finance,Uganda Finance,SoU
+,SoU Govt Spending Per Person,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_gov_spend_pp,SoU Govt Spending per Person,SoU
+,SoU Population,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_population_rural_urban,SoU Rural Urban Population,SoU
+,SoU Indicator Data that are measured in Percentages,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_indicator_percent,SoU Indicators measured in Percentages,SoU
+,SoU Indicator Data measured in National Currency Units (NCU),,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_indicator_ncu,SoU Indicators measured in NCUs,SoU
+,SoU Indicator Data measured in other units,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,uganda_indicator_data,SoU Indicators measured in other Units,SoU
+,Reference for SoK Indicators,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_indicators,Reference for SoK Indicators,SoK
+,Reference for SoK Counties,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_district,Reference for SoK Counties,SoK
+,Reference for SoK Budget Type,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_budget_type,Reference for SoK Budget Type,SoK
+,Reference for SoK Theme,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_theme,Reference for SoK Theme,SoK
+,Reference for SoK Sub-Counties,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_subcounty,SoK Kenya Sub-Counties,SoK
+,Reference for SoK Water Sources,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_water_source,Refrence for SoK Water Sources,SoK
+,SoK Household Water,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_household_water_com,SoK Water Sources,SoK
+,Reference for SoK Sanitation,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,ref_kenya_sanitation_facility,Reference for SoK Sanitation Reference,SoK
+,SoK Sanitation,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_household_san_com,SoK Sanitation Households,SoK
+,SoK Kenya Finance,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_finance,Kenya Finance,SoK
+,SoK Govt Spending Per Person,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_gov_spend_pp,SoK Govt Spending per Person,SoK
+,SoK Population,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_population_rural_urban,SoK Rural Urban Population,SoK
+,SoK Indicator Data that are measured in Percentages,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_percent,SoK Indicators measured in Percentages,SoK
+,SoK Indicator Data measured in National Currency Units (NCU),,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_ncu,SoK Indicators measured in NCUs,SoK
+,SoK Indicator Data measured in other units,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_data,SoK Indicators measured in other Units,SoK

@@ -529,3 +529,119 @@ iati_publishers,disbursements_score,disbursements_score,Disbursements Score,N,Di
 iati_publishers,commitments_score,commitments_score,Commitments Score,N,Commitments Score
 iati_publishers,disbursements_score_notes,disbursements_score_notes,Disbursements Score Notes,C,Disbursements Score Notes
 iati_publishers,commitments_score_notes,commitments_score_notes,Commitments Score Notes,C,Commitments Score Notes
+ref_uganda_indicators,id,id,Indicator ID,C,Indicator ID
+ref_uganda_indicators,description,description,Description of Indicator,C,Description of Indicator
+ref_uganda_district,id,id,District ID,C,District ID
+ref_uganda_district,name,name,District Name,C,District Name
+ref_uganda_budget_type,id,id,Budget Type ID,C,Budget Type ID
+ref_uganda_budget_type,name,name,Budget Type,C,Budget Type
+ref_uganda_theme,id,id,SoU Theme ID,C,SoU Theme ID
+ref_uganda_theme,name,name,SoU Theme Name,C,SoU Theme Name
+ref_uganda_theme,default_indicator,default_indicator,Default Theme Indicator,C,Default Theme Indicator
+ref_uganda_theme,position,position,Position,N,Position
+ref_uganda_budget_level,id,id,Budget Level ID,C,Budget Level ID
+ref_uganda_budget_level,level,level,Budget Level,N,Budget Level
+ref_uganda_budget_level,name,name,Level Name,C,Level Name
+ref_uganda_budget_level,colour_id,colour_id,Colour ID,C,Colour ID
+ref_uganda_budget_level_1,id,id,Budget ID,C,Budget ID
+ref_uganda_budget_level_1,name,name,Name,C,Name
+ref_uganda_budget_level_1,colour_id,colour_id,Colour ID,C,Colour ID
+ref_uganda_budget_level_2,id,id,Budget ID,C,Budget ID
+ref_uganda_budget_level_2,name,name,Name,C,Name
+ref_uganda_budget_level_2,colour_id,colour_id,Colour ID,C,Colour ID
+ref_uganda_budget_level_3,id,id,Budget ID,C,Budget ID
+ref_uganda_budget_level_3,name,name,Name,C,Name
+ref_uganda_budget_level_4,id,id,Budget ID,C,Budget ID
+ref_uganda_budget_level_4,name,name,Name,C,Name
+uganda_finance,district_id,district_id,District ID,C,District ID
+uganda_finance,year,year,Year,N,Year
+uganda_finance,budget_type,budget_type,Budget Type,C,Budget Type
+uganda_finance,l1,l1,Level 1,C,Level 1
+uganda_finance,l2,l2,Level 2,C,Level 2
+uganda_finance,l3,l3,Level 3,C,Level 3
+uganda_finance,l4,l4,Level 4,C,Level 4
+uganda_finance,value,value,Value,N,Value
+uganda_finance,value_ncu,value_ncu,Value NCU,N,Value NCU
+uganda_gov_spend_pp,district_id,district_id,District ID,C,District ID
+uganda_gov_spend_pp,year,year,Year,N,Year
+uganda_gov_spend_pp,budget_type,budget_type,Budget Type,C,Budget Type
+uganda_gov_spend_pp,value,value,Value,N,Value
+uganda_gov_spend_pp,value_ncu,value_ncu,Value NCU,N,Value NCU
+uganda_population_rural_urban,district_id,district_id,District ID,C,District ID
+uganda_population_rural_urban,year,year,Year,N,Year
+uganda_population_rural_urban,value_rural,value_rural,Value for Rural,N,Value for Rural
+uganda_population_rural_urban,value_urban,value_urban,Value for Urban,N,Value for Urban
+uganda_indicator_percent,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+uganda_indicator_percent,district_id,district_id,District ID,C,District ID
+uganda_indicator_percent,year,year,Year,N,Year
+uganda_indicator_percent,value,value,Value,N,Value
+uganda_indicator_percent,budget_type,budget_type,Budget Type,C,Budget Type
+uganda_indicator_ncu,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+uganda_indicator_ncu,district_id,district_id,District ID,C,District ID
+uganda_indicator_ncu,year,year,Year,N,Year
+uganda_indicator_ncu,value,value,Value,N,Value
+uganda_indicator_ncu,value_ncu,value_ncu,Value NCU,N,Value NCU
+uganda_indicator_data,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+uganda_indicator_data,district_id,district_id,District ID,C,District ID
+uganda_indicator_data,year,year,Year,N,Year
+uganda_indicator_data,value,value,Value,N,Value
+ref_kenya_indicators,id,id,Indicator ID,C,Indicator ID
+ref_kenya_indicators,description,description,Indicator Name,C,Indicator Name
+ref_kenya_district,id,id,County ID,C,County ID
+ref_kenya_district,name,name,Name of County,C,Name of County
+ref_kenya_district,alternative_name,alternative_name,Alternative name for County,C,Alternative name for County
+ref_kenya_district,administration_id,administration_id,Administration ID,N,Administration ID
+ref_kenya_district,administration_name,administration_name,Administration name of County,C,Administration name of County
+ref_kenya_district,area,area,Area of County,N,Area of County
+ref_kenya_district,county_code,county_code,County Code,N,County Code
+ref_kenya_budget_type,id,id,Budget ID,C,Budget ID
+ref_kenya_budget_type,name,name,Budget Type,C,Budget Type
+ref_kenya_theme,id,id,Theme ID,C,Theme ID
+ref_kenya_theme,name,name,Name of Theme,C,Name of Theme
+ref_kenya_theme,default_indicator,default_indicator,Default Indicator for Theme,C,Default Indicator for Theme
+ref_kenya_theme,position,position,Position,N,Position
+ref_kenya_subcounty,subcounty_id,subcounty_id,Sub-County ID,N,Sub-County ID
+ref_kenya_subcounty,district_id,district_id,County ID,C,County ID
+ref_kenya_subcounty,subcounty_name,subcounty_name,Sub-County Name,C,Sub-County Name
+ref_kenya_water_source,id,id,Water Source ID,C,Water Source ID
+ref_kenya_water_source,name,name,Name of Water Source,C,Name of Water Source
+kenya_household_water_com,district_id,district_id,County ID,C,County ID
+kenya_household_water_com,year,year,Year,N,Year
+kenya_household_water_com,value,value,Value,N,Value
+ref_kenya_sanitation_facility,id,id,Facility ID,C,Facility ID
+ref_kenya_sanitation_facility,name,name,Name of Sanitation Facility,C,Name of Sanitation Facility
+kenya_household_san_com,district_id,district_id,County ID,C,County ID
+kenya_household_san_com,year,year,Year,N,Year
+kenya_household_san_com,value,value,Value,N,Value
+kenya_finance,district_id,district_id,County ID,C,County ID
+kenya_finance,year,year,Year,N,Year
+kenya_finance,budget_type,budget_type,Budget Type,C,Budget Type
+kenya_finance,l1,l1,Level 1,C,Level 1
+kenya_finance,l2,l2,Level 2,C,Level 2
+kenya_finance,l3,l3,Level 3,C,Level 3
+kenya_finance,l4,l4,Level 4,C,Level 4
+kenya_finance,value,value,Value,N,Value
+kenya_finance,value_ncu,value_ncu,Value NCU,N,Value NCU
+kenya_gov_spend_pp,district_id,district_id,County ID,C,County ID
+kenya_gov_spend_pp,year,year,Year,N,Year
+kenya_gov_spend_pp,budget_type,budget_type,Budget Type,C,Budget Type
+kenya_gov_spend_pp,value,value,Value,N,Value
+kenya_gov_spend_pp,value_ncu,value_ncu,Value NCU,N,Value NCU
+kenya_population_rural_urban,district_id,district_id,County ID,C,County ID
+kenya_population_rural_urban,year,year,Year,N,Year
+kenya_population_rural_urban,value_rural,value_rural,Value for Rural,N,Value for Rural
+kenya_population_rural_urban,value_urban,value_urban,Value for Urban,N,Value for Urban
+kenya_indicator_percent,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+kenya_indicator_percent,district_id,district_id,County ID,C,County ID
+kenya_indicator_percent,year,year,Year,N,Year
+kenya_indicator_percent,value,value,Value,N,Value
+kenya_indicator_percent,budget_type,budget_type,Budget Type,C,Budget Type
+kenya_indicator_ncu,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+kenya_indicator_ncu,district_id,district_id,County ID,C,County ID
+kenya_indicator_ncu,year,year,Year,N,Year
+kenya_indicator_ncu,value,value,Value,N,Value
+kenya_indicator_ncu,value_ncu,value_ncu,Value NCU,N,Value NCU
+kenya_indicator_data,indicator_id,indicator_id,Indicator ID,C,Indicator ID
+kenya_indicator_data,district_id,district_id,County ID,C,County ID
+kenya_indicator_data,year,year,Year,N,Year
+kenya_indicator_data,value,value,Value,N,Value
