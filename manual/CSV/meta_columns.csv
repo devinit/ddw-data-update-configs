@@ -529,6 +529,7 @@ iati_publishers,disbursements_score,disbursements_score,Disbursements Score,N,Di
 iati_publishers,commitments_score,commitments_score,Commitments Score,N,Commitments Score
 iati_publishers,disbursements_score_notes,disbursements_score_notes,Disbursements Score Notes,C,Disbursements Score Notes
 iati_publishers,commitments_score_notes,commitments_score_notes,Commitments Score Notes,C,Commitments Score Notes
+iati_publishers,reporting_org_narrative,reporting_org_narrative,Reporting Org Narrative,C,Reporting Org Narrative
 ref_uganda_indicators,id,id,Indicator ID,C,Indicator ID
 ref_uganda_indicators,description,description,Description of Indicator,C,Description of Indicator
 ref_uganda_district,id,id,District ID,C,District ID
