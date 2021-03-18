@@ -1,25 +1,37 @@
-active_mirror_name,col_name,col_source_name,col_description,data_type
-fts_codenames,Donor,Donor,Donor,C
-fts_codenames,codename,codename,codename,C
-fts_dacregion,Donor,Donor,Donor,C
-fts_dacregion,Region,Region,Region,C
-fts_deflators,deflatortype,deflatortype,deflatortype,C
-fts_deflators,Deflators,Deflators,Deflators,N
-fts_deliverychannels,Recipient.Organization,Recipient.Organization,Recipient.Organization,C
-fts_deliverychannels,deliverychannels,deliverychannels,deliverychannels,C
-fts_destinationcountryid,Destination.Country,Destination.Country,Destination.Country,C
-fts_destinationcountryid,destinationcountryid,destinationcountryid,destinationcountryid,C
-fts_donorscountryid,Donor,Donor,Donor,C
-fts_donorscountryid,donorcountryid,donorcountryid,donorcountryid,C
-fts_incomegroups,destinationcountrytype,destinationcountrytype,destinationcountrytype,C
-fts_incomegroups,incomegroups,incomegroups,incomegroups,C
-fts_ngotype,Recipient.Organization,Recipient.Organization,Recipient.Organization,C
-fts_ngotype,ngotype,ngotype,ngotype,C
-fts_odaeligible,Destination.Country,Destination.Country,Destination.Country,C
-fts_odaeligible,odaeligible,odaeligible,odaeligible,C
-fts_privatemoney,Donor,Donor,Donor,C
-fts_privatemoney,privatemoney,privatemoney,privatemoney,C
-fts_recipientcodename,Recipient.Organization,Recipient.Organization,Recipient.Organization,C
-fts_recipientcodename,recipientcodename,recipientcodename,recipientcodename,C
-fts_recipientcountryid,Recipient.Organization,Recipient.Organization,Recipient.Organization,C
-fts_recipientcountryid,recipientcountryid,recipientcountryid,recipientcountryid,C
+active_mirror_name,col_name,col_source_name,col_description,data_type,col_alias
+fts_codenames,Donor,Donor,Donor,C,Donor
+fts_codenames,codename,codename,codename,C,Codename
+fts_codenames,year,year,Year,C,Year
+fts_dacregion,Donor,Donor,Donor,C,Donor
+fts_dacregion,Region,Region,Region,C,Region
+fts_dacregion,year,year,Year,C,Year
+fts_deflators,deflatortype,deflatortype,deflatortype,C,Deflator Type
+fts_deflators,Deflators,Deflators,Deflators,N,Deflators
+fts_deflators,year,year,Year,C,Year
+fts_deliverychannels,Recipient.Organization,Recipient.Organization,Recipient.Organization,C,Recipient Organisation
+fts_deliverychannels,deliverychannels,deliverychannels,deliverychannels,C,Delivery Channels
+fts_deliverychannels,year,year,Year,C,Year
+fts_destinationcountryid,Destination.Country,Destination.Country,Destination.Country,C,Destination Country
+fts_destinationcountryid,destinationcountryid,destinationcountryid,destinationcountryid,C,Destination Country ID
+fts_destinationcountryid,year,year,Year,C,Year
+fts_donorscountryid,Donor,Donor,Donor,C,Donor
+fts_donorscountryid,donorcountryid,donorcountryid,donorcountryid,C,Donor Country ID
+fts_donorscountryid,year,year,Year,C,Year
+fts_incomegroups,destinationcountrytype,destinationcountrytype,destinationcountrytype,C,Destination Country Type
+fts_incomegroups,incomegroups,incomegroups,incomegroups,C,Income Groups
+fts_incomegroups,year,year,Year,C,Year
+fts_ngotype,Recipient.Organization,Recipient.Organization,Recipient.Organization,C,Recipient Organisation
+fts_ngotype,ngotype,ngotype,ngotype,C,NGO Type
+fts_ngotype,year,year,Year,C,Year
+fts_odaeligible,Destination.Country,Destination.Country,Destination.Country,C,Destination Country
+fts_odaeligible,odaeligible,odaeligible,odaeligible,C,ODA Eligible
+fts_odaeligible,year,year,Year,C,Year
+fts_privatemoney,Donor,Donor,Donor,C,Donor
+fts_privatemoney,privatemoney,privatemoney,privatemoney,C,Private Money
+fts_privatemoney,year,year,Year,C,Year
+fts_recipientcodename,Recipient.Organization,Recipient.Organization,Recipient.Organization,C,Recipient Organisation
+fts_recipientcodename,recipientcodename,recipientcodename,recipientcodename,C,Recipient Codename
+fts_recipientcodename,year,year,Year,C,Year
+fts_recipientcountryid,Recipient.Organization,Recipient.Organization,Recipient.Organization,C,Recipient Organisation
+fts_recipientcountryid,recipientcountryid,recipientcountryid,recipientcountryid,C,Recipient Country ID
+fts_recipientcountryid,year,year,Year,C,Year
