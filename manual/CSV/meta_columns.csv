@@ -123,6 +123,13 @@ di_deflators_2017,dac_marker,dac_marker,Country is a member of the OECD DAC,N,Da
 di_deflators_2017,eu_marker,eu_marker,Country is a member of the EU,N,Eu marker
 di_deflators_2017,year,year,Year,N,Year
 di_deflators_2017,value,value,Deflator multiplier,N,Deflator multiplier
+di_deflators_2018,di_id,di_id,ISO Alpha 2,C,ISO Alpha 2
+di_deflators_2018,iso3,iso3,ISO Alpha 3,C,ISO Alpha 3
+di_deflators_2018,country_name,country_name,Country name,C,Country name
+di_deflators_2018,dac_marker,dac_marker,Country is a member of the OECD DAC,N,Dac marker
+di_deflators_2018,eu_marker,eu_marker,Country is a member of the EU,N,Eu marker
+di_deflators_2018,year,year,Year,N,Year
+di_deflators_2018,value,value,Deflator multiplier,N,Deflator multiplier
 wdi,country_name,country_name,Country name,C,Country name
 wdi,country_code,country_code,Country code,C,Country code
 wdi,indicator_name,indicator_name,Indicator name,C,Indicator name
