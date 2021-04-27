@@ -1,0 +1,56 @@
+country,iso3,major_food_crises,top_25,subnational_crisis,year
+Afghanistan,AFG,Yes,Yes,No,2020
+Angola,AGO,Yes,No,No,2020
+Bangladesh (Cox's Bazar),BGD,Yes,No,Yes,2020
+Burkina Faso,BFA,Yes,Yes,No,2020
+Burundi,BDI,Yes,Yes,No,2020
+Cabo Verde,CPV,No,No,No,2020
+Cameroon,CMR,Yes,Yes,No,2020
+Central African Republic,CAF,Yes,Yes,No,2020
+Chad,TCD,Yes,Yes,No,2020
+Côte d’Ivoire,CIV,No,No,No,2020
+Democratic Republic of the Congo,COD,Yes,Yes,No,2020
+Djibouti,DJI,No,No,No,2020
+Egypt (refugees),EGY,No,No,Yes,2020
+El Salvador,SLV,No,No,No,2020
+Eswatini,SWZ,Yes,No,No,2020
+Ethiopia,ETH,Yes,Yes,No,2020
+Gambia,GMB,No,No,No,2020
+Guatemala,GTM,Yes,Yes,No,2020
+Guinea,GIN,No,No,No,2020
+Guinea-Bissau,GNB,No,No,No,2020
+Haiti,HTI,Yes,Yes,No,2020
+Honduras,HND,Yes,Yes,No,2020
+Iraq,IRQ,No,No,No,2020
+Jordan (Syrian refugees),JOR,No,No,Yes,2020
+Kenya,KEN,Yes,Yes,No,2020
+Lebanon (Syrian refugees),LBN,No,No,Yes,2020
+Lesotho,LSO,Yes,No,No,2020
+Liberia,LBR,No,No,No,2020
+Libya,LBY,No,No,No,2020
+Madagascar,MDG,Yes,No,No,2020
+Malawi,MWI,Yes,Yes,No,2020
+Mali,MLI,Yes,Yes,No,2020
+Mauritania,MRT,No,No,No,2020
+Mozambique,MOZ,Yes,Yes,No,2020
+Namibia,NAM,No,No,No,2020
+Nicaragua,NIC,No,No,No,2020
+Niger,NER,Yes,Yes,No,2020
+Nigeria,NGA,Yes,Yes,No,2020
+Pakistan,PAK,Yes,No,No,2020
+Palestine,PSE,Yes,Yes,No,2020
+Republic of the Congo,COG,No,No,No,2020
+Senegal,SEN,No,No,No,2020
+Sierra Leone,SLE,Yes,No,No,2020
+Somalia,SOM,Yes,Yes,No,2020
+South Sudan,SSD,Yes,Yes,No,2020
+Sudan,SDN,Yes,Yes,No,2020
+Syrian Arab Republic,SYR,Yes,Yes,No,2020
+Togo,TGO,No,No,No,2020
+Turkey (Syrian refugees),TUR,No,No,Yes,2020
+Uganda,UGA,Yes,No,No,2020
+Ukraine,UKR,No,No,No,2020
+United Republic of Tanzania,TZA,Yes,No,No,2020
+Yemen,YEM,Yes,Yes,No,2020
+Zambia,ZMB,Yes,Yes,No,2020
+Zimbabwe,ZWE,Yes,Yes,No,2020
