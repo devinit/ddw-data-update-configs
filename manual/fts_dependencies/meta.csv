@@ -11,3 +11,4 @@ fts_odaeligible.csv,FTS dependency ODA eligible,,Development Initiatives,DI,,,28
 fts_privatemoney.csv,FTS dependency private money,,Development Initiatives,DI,,,28/05/2020,repo,schema,fts_privatemoney,FTS dependency private money,humanitarian
 fts_recipientcodename.csv,FTS dependency recipient codename,,Development Initiatives,DI,,,28/05/2020,repo,schema,fts_recipientcodename,FTS dependency recipient codename,humanitarian
 fts_recipientcountryid.csv,FTS dependency recipient country ID,,Development Initiatives,DI,,,28/05/2020,repo,schema,fts_recipientcountryid,FTS dependency recipient country ID,humanitarian
+fts_fao_classifications.csv,FAO Food Crises,,Food and Agricultural Organisation,FAO,,,26/04/2021,repo,schema,fts_fao_classifications,FAO Food Crises,humanitarian

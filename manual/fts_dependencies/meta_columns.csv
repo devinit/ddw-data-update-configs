@@ -35,3 +35,9 @@ fts_recipientcodename,year,year,Year,C,Year
 fts_recipientcountryid,Recipient.Organization,Recipient.Organization,Recipient.Organization,C,Recipient Organisation
 fts_recipientcountryid,recipientcountryid,recipientcountryid,recipientcountryid,C,Recipient Country ID
 fts_recipientcountryid,year,year,Year,C,Year
+fts_fao_classifications,country,country,Country,C,Country
+fts_fao_classifications,iso3,iso3,ISO 3 Code,C,ISO3
+fts_fao_classifications,major_food_crises,major_food_crises,Major Food Crises,C,Major Food Crises
+fts_fao_classifications,top_25,top_25,Top 25,C,Top 25
+fts_fao_classifications,subnational_crisis,subnational_crisis,Subnational Crisis,C,Subnational Crisis
+fts_fao_classifications,year,year,Year,C,Year
