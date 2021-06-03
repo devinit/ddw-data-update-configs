@@ -325,6 +325,36 @@ fts,destination_Emergency_name,destination_Emergency_name,Destination emergency 
 fts,exchangeRate,exchangeRate,Exchange rate,N,Exchange rate
 fts,source_Emergency_name,source_Emergency_name,Source emergency name,C,Source emergency name
 fts,source_GlobalCluster_name,source_GlobalCluster_name,Source global cluster name,C,Source global cluster name
+fts,createdAt,createdAt,Created at,C,Created at
+fts,date,date,Date,C,Date
+fts,decisionDate,decisionDate,Decision date,C,Decision date
+fts,firstReportedDate,firstReportedDate,First reported date,C,First reported date
+fts,updatedAt,updatedAt,Updated at,C,Updated at
+fts,versionId,versionId,Version ID,N,Version ID
+fts,source_Organization_id,source_Organization_id,Source organization ID,C,Source organization ID
+fts,source_UsageYear_id,source_UsageYear_id,Source usage year ID,C,Source usage year ID
+fts,source_Organization_type,source_Organization_type,Source organization type,C,Source organization type
+fts,destination_Plan_id,destination_Plan_id,Destination plan ID,C,Destination plan ID
+fts,destination_Organization_id,destination_Organization_id,Destination organization ID,C,Destination organization ID
+fts,destination_GlobalCluster_id,destination_GlobalCluster_id,Destination global cluster ID,C,Destination global cluster ID
+fts,destination_Location_id,destination_Location_id,Destination location ID,C,Destination location ID
+fts,destination_Project_id,destination_Project_id,Destination project ID,N,Destination project ID
+fts,destination_UsageYear_id,destination_UsageYear_id,Destination usage year ID,C,Destination usage year ID
+fts,destination_Organization_type,destination_Organization_type,Destination organization type,C,Destination organization type
+fts,report_type,report_type,Report type,C,Report type
+fts,report_organisation,report_organisation,Report organisation,C,Report organisation
+fts,report_channel,report_channel,Report channel,C,Report channel
+fts,report_date,report_date,Report date,C,Report date
+fts,source_Location_id,source_Location_id,Source location ID,C,Source location ID
+fts,destination_Emergency_id,destination_Emergency_id,Destination emergency ID,C,Destination emergency ID
+fts,refCode,refCode,Reference code,C,Reference code
+fts,source_GlobalCluster_id,source_GlobalCluster_id,Source global cluster ID,C,Source global cluster ID
+fts,source_Emergency_id,source_Emergency_id,Source emergency ID,C,Source emergency ID
+fts,source_Project_id,source_Project_id,Source project ID,N,Source project ID
+fts,source_Project_name,source_Project_name,Source project name,C,Source project name
+fts,destination_Cluster_id,destination_Cluster_id,Destination cluster ID,C,Destination cluster ID
+fts,source_Cluster_id,source_Cluster_id,Source cluster ID,C,Source cluster ID
+fts,source_Cluster_name,source_Cluster_name,Source cluster name,C,Source cluster name
 all_resource_flows,id,id,Row ID,C,Row ID
 all_resource_flows,year,year,Year,N,Year
 all_resource_flows,country_name,country_name,Country name,C,Country name
@@ -454,6 +484,36 @@ fts_precoded,domesticresponse,domesticresponse,Domestic response,C,Domestic resp
 fts_precoded,Deflators,Deflators,Deflators,N,Deflators
 fts_precoded,amountDeflated,amountDeflated,Amount deflated,N,Amount deflated
 fts_precoded,amountDeflatedMillions,amountDeflatedMillions,Amount deflated millions,N,Amount deflated millions
+fts_precoded,createdAt,createdAt,Created at,C,Created at
+fts_precoded,date,date,Date,C,Date
+fts_precoded,decisionDate,decisionDate,Decision date,C,Decision date
+fts_precoded,firstReportedDate,firstReportedDate,First reported date,C,First reported date
+fts_precoded,updatedAt,updatedAt,Updated at,C,Updated at
+fts_precoded,versionId,versionId,Version ID,N,Version ID
+fts_precoded,source_Organization_id,source_Organization_id,Source organization ID,C,Source organization ID
+fts_precoded,source_UsageYear_id,source_UsageYear_id,Source usage year ID,C,Source usage year ID
+fts_precoded,source_Organization_type,source_Organization_type,Source organization type,C,Source organization type
+fts_precoded,destination_Plan_id,destination_Plan_id,Destination plan ID,C,Destination plan ID
+fts_precoded,destination_Organization_id,destination_Organization_id,Destination organization ID,C,Destination organization ID
+fts_precoded,destination_GlobalCluster_id,destination_GlobalCluster_id,Destination global cluster ID,C,Destination global cluster ID
+fts_precoded,destination_Location_id,destination_Location_id,Destination location ID,C,Destination location ID
+fts_precoded,destination_Project_id,destination_Project_id,Destination project ID,N,Destination project ID
+fts_precoded,destination_UsageYear_id,destination_UsageYear_id,Destination usage year ID,C,Destination usage year ID
+fts_precoded,destination_Organization_type,destination_Organization_type,Destination organization type,C,Destination organization type
+fts_precoded,report_type,report_type,Report type,C,Report type
+fts_precoded,report_organisation,report_organisation,Report organisation,C,Report organisation
+fts_precoded,report_channel,report_channel,Report channel,C,Report channel
+fts_precoded,report_date,report_date,Report date,C,Report date
+fts_precoded,source_Location_id,source_Location_id,Source location ID,C,Source location ID
+fts_precoded,destination_Emergency_id,destination_Emergency_id,Destination emergency ID,C,Destination emergency ID
+fts_precoded,refCode,refCode,Reference code,C,Reference code
+fts_precoded,source_GlobalCluster_id,source_GlobalCluster_id,Source global cluster ID,C,Source global cluster ID
+fts_precoded,source_Emergency_id,source_Emergency_id,Source emergency ID,C,Source emergency ID
+fts_precoded,source_Project_id,source_Project_id,Source project ID,N,Source project ID
+fts_precoded,source_Project_name,source_Project_name,Source project name,C,Source project name
+fts_precoded,destination_Cluster_id,destination_Cluster_id,Destination cluster ID,C,Destination cluster ID
+fts_precoded,source_Cluster_id,source_Cluster_id,Source cluster ID,C,Source cluster ID
+fts_precoded,source_Cluster_name,source_Cluster_name,Source cluster name,C,Source cluster name
 iati_transactions,x_aid_type,x_aid_type,Aid Type,C,Aid Type - Calculated
 iati_transactions,x_country,x_country,Country,C,Country Name - Calculated
 iati_transactions,x_country_code,x_country_code,Calculated Country Code,C,Country Code - Calculated
