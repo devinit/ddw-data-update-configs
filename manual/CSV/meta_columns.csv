@@ -589,6 +589,8 @@ iati_transactions,x_recipient_transaction_value_usd,x_recipient_transaction_valu
 iati_transactions,x_sector_number,x_sector_number,x_sector_number,N,Sector Number
 iati_transactions,dac_policy_marker_code,dac_policy_marker_code,dac_policy_marker_code,C,DAC Policy Marker Code
 iati_transactions,dac_policy_marker_significance,dac_policy_marker_significance,dac_policy_marker_significance,C,DAC Policy Marker Significance
+iati_transactions,x_donor_transaction_type,x_donor_transaction_type,Donor Transaction Type,C,Donor Transaction Type
+iati_transactions,x_original_transaction_value_USDm,x_original_transaction_value_USDm,Original Transaction Value USDm,C,Original Transaction Value USDm
 iati_publishers,reporting_org_ref,reporting_org_ref,The key to this table and present on all DDW IATI records,C,Reporting Organisation Reference Code
 iati_publishers,registry_id,registry_id,The publisher ID from the IATI Registry,C,Registry Id
 iati_publishers,org_type,org_type,"DI's version of Organisation Types (eg  Bilateral, IFI, Multilateral)",C,Organisation Type
