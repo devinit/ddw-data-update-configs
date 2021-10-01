@@ -589,15 +589,19 @@ iati_transactions,x_recipient_transaction_value_usd,x_recipient_transaction_valu
 iati_transactions,x_sector_number,x_sector_number,x_sector_number,N,Sector Number
 iati_transactions,dac_policy_marker_code,dac_policy_marker_code,dac_policy_marker_code,C,DAC Policy Marker Code
 iati_transactions,dac_policy_marker_significance,dac_policy_marker_significance,dac_policy_marker_significance,C,DAC Policy Marker Significance
-iati_publishers,reporting_org_ref,reporting_org_ref,Reporting Organisation Reference Code,C,Reporting Organisation Reference Code
-iati_publishers,country_or_org_name,country_or_org_name,Country or Organisation Name,C,Country or Organisation Name
-iati_publishers,specific_country_name,specific_country_name,Specific Country Name,C,Specific Country Name
-iati_publishers,org_type,org_type,Organisation Type,C,Organisation Type
-iati_publishers,disbursements_score,disbursements_score,Disbursements Score,N,Disbursements Score
-iati_publishers,commitments_score,commitments_score,Commitments Score,N,Commitments Score
-iati_publishers,disbursements_score_notes,disbursements_score_notes,Disbursements Score Notes,C,Disbursements Score Notes
-iati_publishers,commitments_score_notes,commitments_score_notes,Commitments Score Notes,C,Commitments Score Notes
-iati_publishers,reporting_org_narrative,reporting_org_narrative,Reporting Org Narrative,C,Reporting Org Narrative
+iati_publishers,reporting_org_ref,reporting_org_ref,The key to this table and present on all DDW IATI records,C,Reporting Organisation Reference Code
+iati_publishers,registry_id,registry_id,The publisher ID from the IATI Registry,C,Registry Id
+iati_publishers,org_type,org_type,"DI's version of Organisation Types (eg  Bilateral, IFI, Multilateral)",C,Organisation Type
+iati_publishers,org_name,org_name,DI's tidied version of the Reporting Organisation Name,C,Organisation Name
+iati_publishers,abbreviation,abbreviation,Organisation Abbreviation,C,Abbreviation
+iati_publishers,usability_score,usability_score,DI Shorthand for scores in the format C0D0,C,Usability Score
+iati_publishers,tracker_commit,tracker_commit,Boolean for whether this publisher's commitment data is used in the tracker,C,Tracker Commit
+iati_publishers,tracker_spend,tracker_spend,Boolean for whether this publisher's spend data is used in the tracker,C,Tracker Spend
+iati_publishers,latest_txn_year,latest_txn_year,The latest year for which any transaction was published,C,Latest Transaction Year
+iati_publishers,hq_country,hq_country,The ISO-2 Country Code for the Country in which HQ is located,C,HQ Country
+iati_publishers,CRS_codes,CRS_codes,Matching CRS Donor and Agency Codes,C,CRS Codes
+iati_publishers,IATI_organisation_type,IATI_organisation_type,IATI's original organisation type,C,IATI Organisation Type
+iati_publishers,IATI_organisation_name,IATI_organisation_name,IATI's Reporting Organisation Narrative,C,IATI Organisation Name
 ref_uganda_indicators,id,id,Indicator ID,C,Indicator ID
 ref_uganda_indicators,description,description,Description of Indicator,C,Description of Indicator
 ref_uganda_district,id,id,District ID,C,District ID

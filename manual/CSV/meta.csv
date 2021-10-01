@@ -41,8 +41,8 @@ oecd_crs_aid_type_ref.csv,OECD CRS aid type reference file,,Development Initiati
 oecd_crs_channel_map.csv,OECD CRS channel mapping,,Development Initiatives,DI,,,10/10/2019,repo,schema,oecd_crs_channel_map,OECD CRS channel mapping,classifiers
 oecd_crs_sector_itep_map.csv,OECD CRS sector mapping sector code to ITEP sector,,Development Initiatives,DI,,,10/09/2020,repo,schema,oecd_crs_sector_itep_map,OECD CRS sector mapping sector code to ITEP sector,classifiers
 oecd_crs_donor_type_ref.csv,OECD DAC CRS donor type reference file,,Development Initiatives,DI,,,10/09/2020,repo,schema,oecd_crs_donor_type_ref,OECD DAC CRS donor type reference file,classifiers
-,International Aid Transparency Initiative Transactions,IATI,International Aid Transparency Initiative,IATI,https://www.iatiregistry.org/,https://www.iatiregistry.org/,03/06/2020,repo,schema,iati_transactions,Transaction specification flat-file format calculated from the IATI Registry.,iati
-iati_publishers.csv,IATI Publishers,,Development Initiatives,DI,,,30/07/2020,repo,schema,iati_publishers,IATI Publisher metadata,iati
+,International Aid Transparency Initiative Transactions,IATI,International Aid Transparency Initiative,IATI,https://www.iatiregistry.org/,https://www.iatiregistry.org/,30/09/2021,repo,schema,iati_transactions,Transaction specification flat-file format calculated from the IATI Registry.,iati
+iati_publishers.csv,IATI Publishers,,Development Initiatives,DI,,,30/09/2021,repo,schema,iati_publishers,IATI Publisher metadata,iati
 ,Reference for Uganda Indicators,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_indicators,Reference for SoU Indicators,SoU
 ,Reference for SoU Districts,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_district,Reference for SoU Districts,SoU
 ,Reference for SoU Budget Type,,Development Initiatives,DI,,,10/03/2021,spotlight_on_uganda_2017,schema,ref_uganda_budget_type,Reference for SoU Budget Type,SoU
