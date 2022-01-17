@@ -604,6 +604,7 @@ iati_publishers,hq_country,hq_country,The ISO-2 Country Code for the Country in 
 iati_publishers,CRS_codes,CRS_codes,Matching CRS Donor and Agency Codes,C,CRS Codes
 iati_publishers,IATI_organisation_type,IATI_organisation_type,IATI's original organisation type,C,IATI Organisation Type
 iati_publishers,IATI_organisation_name,IATI_organisation_name,IATI's Reporting Organisation Narrative,C,IATI Organisation Name
+iati_publishers,country,country,IATI country,C,IATI country
 ref_uganda_indicators,id,id,Indicator ID,C,Indicator ID
 ref_uganda_indicators,description,description,Description of Indicator,C,Description of Indicator
 ref_uganda_district,id,id,District ID,C,District ID
