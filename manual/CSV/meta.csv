@@ -73,6 +73,6 @@ iati_publishers.csv,IATI Publishers,,Development Initiatives,DI,,,30/09/2021,rep
 ,SoK Indicator Data that are measured in Percentages,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_percent,SoK Indicators measured in Percentages,SoK
 ,SoK Indicator Data measured in National Currency Units (NCU),,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_ncu,SoK Indicators measured in NCUs,SoK
 ,SoK Indicator Data measured in other units,,Development Initiatives,DI,,,10/03/2021,spotlight_on_kenya_2017,schema,kenya_indicator_data,SoK Indicators measured in other Units,SoK
-,SDG Goals,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_goals,SDG Goals,SDGS
-,SDG Targets,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_targets,SDG Targets,SDGS
-,SDG Indicators,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_indicators,SDG Indicators,SDGS
+sdg_goals.csv,SDG Goals,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_goals,SDG Goals,SDGS
+sdg_targets.csv,SDG Targets,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_targets,SDG Targets,SDGS
+sdg_indicators.csv,SDG Indicators,,Development Initiatives,DI,,,28/01/2022,repo,schema,sdg_indicators,SDG Indicators,SDGS
