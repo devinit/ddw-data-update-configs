@@ -133,7 +133,7 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1610,MAVA Foundation,Private,Private
 1611,Oak Foundation,Private,Private
 1612,H&M Foundation,Private,Private
-1613,C&A Foundation,Private,Private
+1613,Laudes Foundation,Private,Private
 1614,Charity Projects Ltd (Comic Relief),Private,Private
 1615,Children's Investment Fund Foundation,Private,Private
 1616,Gatsby Charitable Foundation,Private,Private
@@ -160,3 +160,6 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1637,Arcadia Fund,Private,Private
 1638,Margaret A. Cargill Foundation,Private,Private
 1639,La Caixa Banking Foundation,Private,Private
+1640,Bloomberg Family Foundation,Private,Private
+1641,Susan T. Buffett Foundation,Private,Private
+1642,Howard G. Buffett Foundation,Private,Private
