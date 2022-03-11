@@ -6943,3 +6943,437 @@ Kosovo,XK,XKX,2018,UM
 South Africa,ZA,ZAF,2018,UM
 Zambia,ZM,ZMB,2018,LM
 Zimbabwe,ZW,ZWE,2018,LM
+Andorra,AD,AND,2019,H
+United Arab Emirates,AE,ARE,2019,H
+Afghanistan,AF,AFG,2019,L
+Antigua and Barbuda,AG,ATG,2019,H
+Albania,AL,ALB,2019,UM
+Armenia,AM,ARM,2019,UM
+Angola,AO,AGO,2019,LM
+Argentina,AR,ARG,2019,UM
+American Samoa,AS,ASM,2019,UM
+Austria,AT,AUT,2019,H
+Australia,AU,AUS,2019,H
+Aruba,AW,ABW,2019,H
+Azerbaijan,AZ,AZE,2019,UM
+Bosnia and Herzegovina,BA,BIH,2019,UM
+Barbados,BB,BRB,2019,H
+Bangladesh,BD,BGD,2019,LM
+Belgium,BE,BEL,2019,H
+Burkina Faso,BF,BFA,2019,L
+Bulgaria,BG,BGR,2019,UM
+Bahrain,BH,BHR,2019,H
+Burundi,BI,BDI,2019,L
+Benin,BJ,BEN,2019,LM
+Bermuda,BM,BMU,2019,H
+Brunei Darussalam,BN,BRN,2019,H
+Bolivia,BO,BOL,2019,LM
+Brazil,BR,BRA,2019,UM
+"Bahamas, The",BS,BHS,2019,H
+Bhutan,BT,BTN,2019,LM
+Botswana,BW,BWA,2019,UM
+Belarus,BY,BLR,2019,UM
+Belize,BZ,BLZ,2019,UM
+Canada,CA,CAN,2019,H
+"Congo, Dem. Rep.",CD,COD,2019,L
+Central African Republic,CF,CAF,2019,L
+"Congo, Rep.",CG,COG,2019,LM
+Switzerland,CH,CHE,2019,H
+Côte d'Ivoire,CI,CIV,2019,LM
+Chile,CL,CHL,2019,H
+Cameroon,CM,CMR,2019,LM
+China,CN,CHN,2019,UM
+Colombia,CO,COL,2019,UM
+Costa Rica,CR,CRI,2019,UM
+Cuba,CU,CUB,2019,UM
+Cabo Verde,CV,CPV,2019,LM
+Curaçao,CW,CUW,2019,H
+Cyprus,CY,CYP,2019,H
+Czech Republic,CZ,CZE,2019,H
+Germany,DE,DEU,2019,H
+Djibouti,DJ,DJI,2019,LM
+Denmark,DK,DNK,2019,H
+Dominica,DM,DMA,2019,UM
+Dominican Republic,DO,DOM,2019,UM
+Algeria,DZ,DZA,2019,LM
+Ecuador,EC,ECU,2019,UM
+Estonia,EE,EST,2019,H
+"Egypt, Arab Rep.",EG,EGY,2019,LM
+Eritrea,ER,ERI,2019,L
+Spain,ES,ESP,2019,H
+Ethiopia,ET,ETH,2019,L
+Finland,FI,FIN,2019,H
+Fiji,FJ,FJI,2019,UM
+"Micronesia, Fed. Sts.",FM,FSM,2019,LM
+Faeroe Islands,FO,FRO,2019,H
+France,FR,FRA,2019,H
+Gabon,GA,GAB,2019,UM
+United Kingdom,GB,GBR,2019,H
+Grenada,GD,GRD,2019,UM
+Georgia,GE,GEO,2019,UM
+Ghana,GH,GHA,2019,LM
+Gibraltar,GI,GIB,2019,H
+Greenland,GL,GRL,2019,H
+"Gambia, The",GM,GMB,2019,L
+Guinea,GN,GIN,2019,L
+Equatorial Guinea,GQ,GNQ,2019,UM
+Greece,GR,GRC,2019,H
+Guatemala,GT,GTM,2019,UM
+Guam,GU,GUM,2019,H
+Guinea-Bissau,GW,GNB,2019,L
+Guyana,GY,GUY,2019,UM
+"Hong Kong SAR, China",HK,HKG,2019,H
+Honduras,HN,HND,2019,LM
+Croatia,HR,HRV,2019,H
+Haiti,HT,HTI,2019,L
+Hungary,HU,HUN,2019,H
+Indonesia,ID,IDN,2019,UM
+Ireland,IE,IRL,2019,H
+Israel,IL,ISR,2019,H
+Isle of Man,IM,IMN,2019,H
+India,IN,IND,2019,LM
+Iraq,IQ,IRQ,2019,UM
+"Iran, Islamic Rep.",IR,IRN,2019,UM
+Iceland,IS,ISL,2019,H
+Italy,IT,ITA,2019,H
+Jamaica,JM,JAM,2019,UM
+Jordan,JO,JOR,2019,UM
+Japan,JP,JPN,2019,H
+Kenya,KE,KEN,2019,LM
+Kyrgyz Republic,KG,KGZ,2019,LM
+Cambodia,KH,KHM,2019,LM
+Kiribati,KI,KIR,2019,LM
+Comoros,KM,COM,2019,LM
+St. Kitts and Nevis,KN,KNA,2019,H
+"Korea, Dem. Rep.",KP,PRK,2019,L
+"Korea, Rep.",KR,KOR,2019,H
+Kuwait,KW,KWT,2019,H
+Cayman Islands,KY,CYM,2019,H
+Kazakhstan,KZ,KAZ,2019,UM
+Lao PDR,LA,LAO,2019,LM
+Lebanon,LB,LBN,2019,UM
+St. Lucia,LC,LCA,2019,UM
+Liechtenstein,LI,LIE,2019,H
+Sri Lanka,LK,LKA,2019,LM
+Liberia,LR,LBR,2019,L
+Lesotho,LS,LSO,2019,LM
+Lithuania,LT,LTU,2019,H
+Luxembourg,LU,LUX,2019,H
+Latvia,LV,LVA,2019,H
+Libya,LY,LBY,2019,UM
+Morocco,MA,MAR,2019,LM
+Monaco,MC,MCO,2019,H
+Moldova,MD,MDA,2019,LM
+Montenegro,ME,MNE,2019,UM
+St. Martin (French part),MF,MAF,2019,H
+Madagascar,MG,MDG,2019,L
+Marshall Islands,MH,MHL,2019,UM
+North Macedonia,MK,MKD,2019,UM
+Mali,ML,MLI,2019,L
+Myanmar,MM,MMR,2019,LM
+Mongolia,MN,MNG,2019,LM
+"Macao SAR, China",MO,MAC,2019,H
+Northern Mariana Islands,MP,MNP,2019,H
+Mauritania,MR,MRT,2019,LM
+Malta,MT,MLT,2019,H
+Mauritius,MU,MUS,2019,H
+Maldives,MV,MDV,2019,UM
+Malawi,MW,MWI,2019,L
+Mexico,MX,MEX,2019,UM
+Malaysia,MY,MYS,2019,UM
+Mozambique,MZ,MOZ,2019,L
+Namibia,NA,NAM,2019,UM
+New Caledonia,NC,NCL,2019,H
+Niger,NE,NER,2019,L
+Nigeria,NG,NGA,2019,LM
+Nicaragua,NI,NIC,2019,LM
+Netherlands,NL,NLD,2019,H
+Norway,NO,NOR,2019,H
+Nepal,NP,NPL,2019,LM
+Nauru,NR,NRU,2019,H
+New Zealand,NZ,NZL,2019,H
+Oman,OM,OMN,2019,H
+Panama,PA,PAN,2019,H
+Peru,PE,PER,2019,UM
+French Polynesia,PF,PYF,2019,H
+Papua New Guinea,PG,PNG,2019,LM
+Philippines,PH,PHL,2019,LM
+Pakistan,PK,PAK,2019,LM
+Poland,PL,POL,2019,H
+Puerto Rico,PR,PRI,2019,H
+West Bank and Gaza,PS,PSE,2019,LM
+Portugal,PT,PRT,2019,H
+Palau,PW,PLW,2019,H
+Paraguay,PY,PRY,2019,UM
+Qatar,QA,QAT,2019,H
+Romania,RO,ROU,2019,H
+Serbia,RS,SRB,2019,UM
+Russian Federation,RU,RUS,2019,UM
+Rwanda,RW,RWA,2019,L
+Saudi Arabia,SA,SAU,2019,H
+Solomon Islands,SB,SLB,2019,LM
+Seychelles,SC,SYC,2019,H
+Sudan,SD,SDN,2019,L
+Sweden,SE,SWE,2019,H
+Singapore,SG,SGP,2019,H
+Slovenia,SI,SVN,2019,H
+Slovak Republic,SK,SVK,2019,H
+Sierra Leone,SL,SLE,2019,L
+San Marino,SM,SMR,2019,H
+Senegal,SN,SEN,2019,LM
+Somalia,SO,SOM,2019,L
+Suriname,SR,SUR,2019,UM
+South Sudan,SS,SSD,2019,L
+São Tomé and Principe,ST,STP,2019,LM
+El Salvador,SV,SLV,2019,LM
+Sint Maarten (Dutch part),SX,SXM,2019,H
+Syrian Arab Republic,SY,SYR,2019,L
+Swaziland,SZ,SWZ,2019,LM
+Turks and Caicos Islands,TC,TCA,2019,H
+Chad,TD,TCD,2019,L
+Togo,TG,TGO,2019,L
+Thailand,TH,THA,2019,UM
+Tajikistan,TJ,TJK,2019,L
+Timor-Leste,TL,TLS,2019,LM
+Turkmenistan,TM,TKM,2019,UM
+Tunisia,TN,TUN,2019,LM
+Tonga,TO,TON,2019,UM
+Turkey,TR,TUR,2019,UM
+Trinidad and Tobago,TT,TTO,2019,H
+Tuvalu,TV,TUV,2019,UM
+"Taiwan, China",TW,TWN,2019,H
+Tanzania,TZ,TZA,2019,LM
+Ukraine,UA,UKR,2019,LM
+Uganda,UG,UGA,2019,L
+United States,US,USA,2019,H
+Uruguay,UY,URY,2019,H
+Uzbekistan,UZ,UZB,2019,LM
+St. Vincent and the Grenadines,VC,VCT,2019,UM
+"Venezuela, RB",VE,VEN,2019,UM
+British Virgin Islands,VG,VGB,2019,H
+Virgin Islands (U.S.),VI,VIR,2019,H
+Vietnam,VN,VNM,2019,LM
+Vanuatu,VU,VUT,2019,LM
+Samoa,WS,WSM,2019,UM
+Kosovo,XK,XKX,2019,UM
+"Yemen, Rep.",YE,YEM,2019,L
+South Africa,ZA,ZAF,2019,UM
+Zambia,ZM,ZMB,2019,LM
+Zimbabwe,ZW,ZWE,2019,LM
+Andorra,AD,AND,2020,H
+United Arab Emirates,AE,ARE,2020,H
+Afghanistan,AF,AFG,2020,L
+Antigua and Barbuda,AG,ATG,2020,H
+Albania,AL,ALB,2020,UM
+Armenia,AM,ARM,2020,UM
+Angola,AO,AGO,2020,LM
+Argentina,AR,ARG,2020,UM
+American Samoa,AS,ASM,2020,UM
+Austria,AT,AUT,2020,H
+Australia,AU,AUS,2020,H
+Aruba,AW,ABW,2020,H
+Azerbaijan,AZ,AZE,2020,UM
+Bosnia and Herzegovina,BA,BIH,2020,UM
+Barbados,BB,BRB,2020,H
+Bangladesh,BD,BGD,2020,LM
+Belgium,BE,BEL,2020,H
+Burkina Faso,BF,BFA,2020,L
+Bulgaria,BG,BGR,2020,UM
+Bahrain,BH,BHR,2020,H
+Burundi,BI,BDI,2020,L
+Benin,BJ,BEN,2020,LM
+Bermuda,BM,BMU,2020,H
+Brunei Darussalam,BN,BRN,2020,H
+Bolivia,BO,BOL,2020,LM
+Brazil,BR,BRA,2020,UM
+"Bahamas, The",BS,BHS,2020,H
+Bhutan,BT,BTN,2020,LM
+Botswana,BW,BWA,2020,UM
+Belarus,BY,BLR,2020,UM
+Belize,BZ,BLZ,2020,LM
+Canada,CA,CAN,2020,H
+"Congo, Dem. Rep.",CD,COD,2020,L
+Central African Republic,CF,CAF,2020,L
+"Congo, Rep.",CG,COG,2020,LM
+Switzerland,CH,CHE,2020,H
+Côte d'Ivoire,CI,CIV,2020,LM
+Chile,CL,CHL,2020,H
+Cameroon,CM,CMR,2020,LM
+China,CN,CHN,2020,UM
+Colombia,CO,COL,2020,UM
+Costa Rica,CR,CRI,2020,UM
+Cuba,CU,CUB,2020,UM
+Cabo Verde,CV,CPV,2020,LM
+Curaçao,CW,CUW,2020,H
+Cyprus,CY,CYP,2020,H
+Czech Republic,CZ,CZE,2020,H
+Germany,DE,DEU,2020,H
+Djibouti,DJ,DJI,2020,LM
+Denmark,DK,DNK,2020,H
+Dominica,DM,DMA,2020,UM
+Dominican Republic,DO,DOM,2020,UM
+Algeria,DZ,DZA,2020,LM
+Ecuador,EC,ECU,2020,UM
+Estonia,EE,EST,2020,H
+"Egypt, Arab Rep.",EG,EGY,2020,LM
+Eritrea,ER,ERI,2020,L
+Spain,ES,ESP,2020,H
+Ethiopia,ET,ETH,2020,L
+Finland,FI,FIN,2020,H
+Fiji,FJ,FJI,2020,UM
+"Micronesia, Fed. Sts.",FM,FSM,2020,LM
+Faeroe Islands,FO,FRO,2020,H
+France,FR,FRA,2020,H
+Gabon,GA,GAB,2020,UM
+United Kingdom,GB,GBR,2020,H
+Grenada,GD,GRD,2020,UM
+Georgia,GE,GEO,2020,UM
+Ghana,GH,GHA,2020,LM
+Gibraltar,GI,GIB,2020,H
+Greenland,GL,GRL,2020,H
+"Gambia, The",GM,GMB,2020,L
+Guinea,GN,GIN,2020,L
+Equatorial Guinea,GQ,GNQ,2020,UM
+Greece,GR,GRC,2020,H
+Guatemala,GT,GTM,2020,UM
+Guam,GU,GUM,2020,H
+Guinea-Bissau,GW,GNB,2020,L
+Guyana,GY,GUY,2020,UM
+"Hong Kong SAR, China",HK,HKG,2020,H
+Honduras,HN,HND,2020,LM
+Croatia,HR,HRV,2020,H
+Haiti,HT,HTI,2020,LM
+Hungary,HU,HUN,2020,H
+Indonesia,ID,IDN,2020,LM
+Ireland,IE,IRL,2020,H
+Israel,IL,ISR,2020,H
+Isle of Man,IM,IMN,2020,H
+India,IN,IND,2020,LM
+Iraq,IQ,IRQ,2020,UM
+"Iran, Islamic Rep.",IR,IRN,2020,LM
+Iceland,IS,ISL,2020,H
+Italy,IT,ITA,2020,H
+Jamaica,JM,JAM,2020,UM
+Jordan,JO,JOR,2020,UM
+Japan,JP,JPN,2020,H
+Kenya,KE,KEN,2020,LM
+Kyrgyz Republic,KG,KGZ,2020,LM
+Cambodia,KH,KHM,2020,LM
+Kiribati,KI,KIR,2020,LM
+Comoros,KM,COM,2020,LM
+St. Kitts and Nevis,KN,KNA,2020,H
+"Korea, Dem. Rep.",KP,PRK,2020,L
+"Korea, Rep.",KR,KOR,2020,H
+Kuwait,KW,KWT,2020,H
+Cayman Islands,KY,CYM,2020,H
+Kazakhstan,KZ,KAZ,2020,UM
+Lao PDR,LA,LAO,2020,LM
+Lebanon,LB,LBN,2020,UM
+St. Lucia,LC,LCA,2020,UM
+Liechtenstein,LI,LIE,2020,H
+Sri Lanka,LK,LKA,2020,LM
+Liberia,LR,LBR,2020,L
+Lesotho,LS,LSO,2020,LM
+Lithuania,LT,LTU,2020,H
+Luxembourg,LU,LUX,2020,H
+Latvia,LV,LVA,2020,H
+Libya,LY,LBY,2020,UM
+Morocco,MA,MAR,2020,LM
+Monaco,MC,MCO,2020,H
+Moldova,MD,MDA,2020,UM
+Montenegro,ME,MNE,2020,UM
+St. Martin (French part),MF,MAF,2020,H
+Madagascar,MG,MDG,2020,L
+Marshall Islands,MH,MHL,2020,UM
+North Macedonia,MK,MKD,2020,UM
+Mali,ML,MLI,2020,L
+Myanmar,MM,MMR,2020,LM
+Mongolia,MN,MNG,2020,LM
+"Macao SAR, China",MO,MAC,2020,H
+Northern Mariana Islands,MP,MNP,2020,H
+Mauritania,MR,MRT,2020,LM
+Malta,MT,MLT,2020,H
+Mauritius,MU,MUS,2020,UM
+Maldives,MV,MDV,2020,UM
+Malawi,MW,MWI,2020,L
+Mexico,MX,MEX,2020,UM
+Malaysia,MY,MYS,2020,UM
+Mozambique,MZ,MOZ,2020,L
+Namibia,NA,NAM,2020,UM
+New Caledonia,NC,NCL,2020,H
+Niger,NE,NER,2020,L
+Nigeria,NG,NGA,2020,LM
+Nicaragua,NI,NIC,2020,LM
+Netherlands,NL,NLD,2020,H
+Norway,NO,NOR,2020,H
+Nepal,NP,NPL,2020,LM
+Nauru,NR,NRU,2020,H
+New Zealand,NZ,NZL,2020,H
+Oman,OM,OMN,2020,H
+Panama,PA,PAN,2020,UM
+Peru,PE,PER,2020,UM
+French Polynesia,PF,PYF,2020,H
+Papua New Guinea,PG,PNG,2020,LM
+Philippines,PH,PHL,2020,LM
+Pakistan,PK,PAK,2020,LM
+Poland,PL,POL,2020,H
+Puerto Rico,PR,PRI,2020,H
+West Bank and Gaza,PS,PSE,2020,LM
+Portugal,PT,PRT,2020,H
+Palau,PW,PLW,2020,H
+Paraguay,PY,PRY,2020,UM
+Qatar,QA,QAT,2020,H
+Romania,RO,ROU,2020,UM
+Serbia,RS,SRB,2020,UM
+Russian Federation,RU,RUS,2020,UM
+Rwanda,RW,RWA,2020,L
+Saudi Arabia,SA,SAU,2020,H
+Solomon Islands,SB,SLB,2020,LM
+Seychelles,SC,SYC,2020,H
+Sudan,SD,SDN,2020,L
+Sweden,SE,SWE,2020,H
+Singapore,SG,SGP,2020,H
+Slovenia,SI,SVN,2020,H
+Slovak Republic,SK,SVK,2020,H
+Sierra Leone,SL,SLE,2020,L
+San Marino,SM,SMR,2020,H
+Senegal,SN,SEN,2020,LM
+Somalia,SO,SOM,2020,L
+Suriname,SR,SUR,2020,UM
+South Sudan,SS,SSD,2020,L
+São Tomé and Principe,ST,STP,2020,LM
+El Salvador,SV,SLV,2020,LM
+Sint Maarten (Dutch part),SX,SXM,2020,H
+Syrian Arab Republic,SY,SYR,2020,L
+Swaziland,SZ,SWZ,2020,LM
+Turks and Caicos Islands,TC,TCA,2020,H
+Chad,TD,TCD,2020,L
+Togo,TG,TGO,2020,L
+Thailand,TH,THA,2020,UM
+Tajikistan,TJ,TJK,2020,LM
+Timor-Leste,TL,TLS,2020,LM
+Turkmenistan,TM,TKM,2020,UM
+Tunisia,TN,TUN,2020,LM
+Tonga,TO,TON,2020,UM
+Turkey,TR,TUR,2020,UM
+Trinidad and Tobago,TT,TTO,2020,H
+Tuvalu,TV,TUV,2020,UM
+"Taiwan, China",TW,TWN,2020,H
+Tanzania,TZ,TZA,2020,LM
+Ukraine,UA,UKR,2020,LM
+Uganda,UG,UGA,2020,L
+United States,US,USA,2020,H
+Uruguay,UY,URY,2020,H
+Uzbekistan,UZ,UZB,2020,LM
+St. Vincent and the Grenadines,VC,VCT,2020,UM
+"Venezuela, RB",VE,VEN,2020,
+British Virgin Islands,VG,VGB,2020,H
+Virgin Islands (U.S.),VI,VIR,2020,H
+Vietnam,VN,VNM,2020,LM
+Vanuatu,VU,VUT,2020,LM
+Samoa,WS,WSM,2020,LM
+Kosovo,XK,XKX,2020,UM
+"Yemen, Rep.",YE,YEM,2020,L
+South Africa,ZA,ZAF,2020,UM
+Zambia,ZM,ZMB,2020,LM
+Zimbabwe,ZW,ZWE,2020,LM
