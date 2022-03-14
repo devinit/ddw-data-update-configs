@@ -89,7 +89,7 @@ ldcs,ldc,ldc,Least developed country (1 = True),N,Least developed country
 fragility,country_name,country_name,Country name,C,Country name
 fragility,di_id,di_id,ISO Alpha 2,C,ISO Alpha 2
 fragility,iso3,iso3,ISO Alpha 3,C,ISO Alpha 3
-fragility,fragile_2018,fragile_2018,Fragility status in 2018,N,Fragility status in 2018
+fragility,fragile_2020,fragile_2020,Fragility status in 2020,N,Fragility status in 2020
 historical_income_groupings,country_name,country_name,Country name,C,Country name
 historical_income_groupings,di_id,di_id,ISO Alpha 2,C,ISO Alpha 2
 historical_income_groupings,iso3,iso3,ISO Alpha 3,C,ISO Alpha 3

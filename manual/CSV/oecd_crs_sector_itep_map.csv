@@ -47,6 +47,7 @@ oecd_sector_code,oecd_sector_name,itep_sector,aggregated_sector,humanitarian_and
 520,Development Food Assistance,Agriculture & food security,Commodity Aid / General Programme Assistance,Development
 530,Other Commodity Assistance,Other,Commodity Aid / General Programme Assistance,Development
 600,Action Relating to Debt,Debt relief,Action Relating to Debt,Development
+700,Humanitarian Aid,Humanitarian,Humanitarian Aid,Humanitarian
 720,Emergency Response,Humanitarian,Humanitarian Aid,Humanitarian
 730,Reconstruction Relief & Rehabilitation,Humanitarian,Humanitarian Aid,Humanitarian
 740,Disaster Prevention & Preparedness,Humanitarian,Humanitarian Aid,Humanitarian
