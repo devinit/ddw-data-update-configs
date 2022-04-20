@@ -188,6 +188,7 @@ crs_current,sector_name,sector_name,Sector Name,C,Sector Name
 crs_current,channel_code,channel_code,Channel Code,N,Channel Code
 crs_current,channel_name,channel_name,Channel Name,C,Channel Name
 crs_current,channel_reported_name,channel_reported_name,Channel Reported Name,C,Channel Reported Name
+crs_current,channel_parent_category,channel_parent_category,Channel Parent Category,N,Channel Parent Category
 crs_current,geography,geography,Geography,C,Geography
 crs_current,expected_start_date,expected_start_date,Expected Start Date,C,Expected Start Date
 crs_current,completion_date,completion_date,Completion Date,C,Completion Date
