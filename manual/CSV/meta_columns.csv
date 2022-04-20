@@ -188,7 +188,6 @@ crs_current,sector_name,sector_name,Sector Name,C,Sector Name
 crs_current,channel_code,channel_code,Channel Code,N,Channel Code
 crs_current,channel_name,channel_name,Channel Name,C,Channel Name
 crs_current,channel_reported_name,channel_reported_name,Channel Reported Name,C,Channel Reported Name
-crs_current,channel_parent_category,channel_parent_category,Channel Parent Category,N,Channel Parent Category
 crs_current,geography,geography,Geography,C,Geography
 crs_current,expected_start_date,expected_start_date,Expected Start Date,C,Expected Start Date
 crs_current,completion_date,completion_date,Completion Date,C,Completion Date
@@ -217,9 +216,9 @@ crs_current,usd_outstanding,usd_outstanding,USD Outstanding,N,USD Outstanding
 crs_current,usd_arrears_principal,usd_arrears_principal,USD Arrears Principal,N,USD Arrears Principal
 crs_current,usd_arrears_interest,usd_arrears_interest,USD Arrears Interest,N,USD Arrears Interest
 crs_current,rmnch,rmnch,"Reproductive, Maternal, Newborn and Child Health",N,"Reproductive, Maternal, Newborn and Child Health"
-crs_current,budget_identifier,budget_identifier,Budget Identifier,N,Budget Identifier
 crs_current,capital_expenditure,capital_expenditure,Capital Expenditure,N,Capital Expenditure
 crs_current,sdg_focus,sdg_focus,SDG Focus,C,SDG Focus
+crs_current,keywords,keywords,Keywords,C,Keywords
 crs_current,drr,drr,Disaster Risk Reduction,N,Disaster Risk Reduction
 crs_current,nutrition,nutrition,Nutrition,N,Nutrition
 crs_current,disability,disability,Disability,N,Disability
