@@ -733,3 +733,44 @@ sdg_indicators,indicator_desc,indicator_desc,Indicator Description,C,Indicator D
 sdg_indicators,unsd_indicator_code,unsd_indicator_code,UNSD Indicator Code,C,UNSD Indicator Code
 sdg_indicators,tier,tier,Tier,C,Tier
 sdg_indicators,custodian,custodian,Custodian,C,Custodian
+mums,year,year,Year,N,Year
+mums,donor_code,donor_code,Donor Code,N,Donor Code
+mums,donor_name,donor_name,Donor Name,C,Donor Name
+mums,agency_name,agency_name,Agency Name,C,Agency Name
+mums,usd_commitment,usd_commitment,USD Commitment,N,USD Commitment
+mums,usd_commitment_deflated,usd_commitment_deflated,USD Commitment Deflated,N,USD Commitment Deflated
+mums,usd_extended,usd_extended,USD Extended,N,USD Extended
+mums,usd_extended_deflated,usd_extended_deflated,USD Extended Deflated,N,USD Extended Deflated
+mums,aid_to_or_thru,aid_to_or_thru,Aid to or through,C,Aid to or through
+mums,channel_code,channel_code,Channel Code,N,Channel Code
+mums,channel_name,channel_name,Channel Name,C,Channel Name
+mums,channel_reported_name,channel_reported_name,Channel Reported Name,C,Channel Reported Name
+mums,channel_parent_category,channel_parent_category,Channel Parent Category,N,Channel Parent Category
+mums,channel_parent_category_name,channel_parent_category_name,Channel Parent Category Name,C,Channel Parent Category Name
+mums,recipient_code,recipient_code,Recipient Code,N,Recipient Code
+mums,recipient_name,recipient_name,Recipient Name,C,Recipient Name
+mums,purpose_code,purpose_code,Purpose Code,N,Purpose Code
+mums,purpose_name,purpose_name,Purpose Name,C,Purpose Name
+mums,short_description,short_description,Short Description,C,Short Description
+mums,gender,gender,Gender,N,Gender
+mums,environment,environment,Environment,N,Environment
+mums,ftc,ftc,Free-standing Technical Co-operation,N,Free-standing Technical Co-operation
+mums,pba,pba,Programme Based Approach,N,Programme Based Approach
+mums,investment_project,investment_project,Investment Project,N,Investment Project
+mums,biodiversity,biodiversity,Biodiversity,N,Biodiversity
+mums,climate_mitigation,climate_mitigation,Climate Mitigation,N,Climate Mitigation
+mums,climate_adaptation,climate_adaptation,Climate Adaptation,N,Climate Adaptation
+mums,desertification,desertification,Desertification,N,Desertification
+mums,region_name,region_name,Region Name,C,Region Name
+mums,income_group_name,income_group_name,Income Group Name,C,Income Group Name
+mums,flow_code,flow_code,Flow Code,N,Flow Code
+mums,flow_name,flow_name,Flow Name,C,Flow Name
+mums,aid_type,aid_type,Aid Type,C,Aid Type
+mums,aid_type_name,aid_type_name,Aid Type Name,C,Aid Type Name
+mums,sector_code,sector_code,Sector Code,N,Sector Code
+mums,sector_name,sector_name,Sector Name,C,Sector Name
+mums,geography,geography,Geography,C,Geography
+mums,project_title,project_title,Project Title,C,Project Title
+mums,long_description,long_description,Long Description,C,Long Description
+mums,crs_id,crs_id,CRS ID,C,CRS ID
+mums,project_number,project_number,Project Number,C,Project Number
