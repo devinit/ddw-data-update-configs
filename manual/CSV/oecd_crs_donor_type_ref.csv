@@ -121,13 +121,19 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1311,Global Alliance for Vaccines and Immunization,Multilateral,DAC and multi
 1312,Global Fund,Multilateral,DAC and multi
 1313,Global Green Growth Institute,Multilateral,DAC and multi
+1401,WTO - International Trade Centre,Multilateral,DAC and multi
+910,Central American Bank for Economic Integration,Multilateral,DAC and multi
+1406,United Nations Industrial Development Organization,Multilateral,DAC and multi
+1039,UN Capital Development Fund,Multilateral,DAC and multi
+1041,Eurasian Fund for Stabilization and Development,Multilateral,DAC and multi
+962,United Nations Conference on Trade and Development,Multilateral,DAC and multi
 1601,Bill & Melinda Gates Foundation,Private,Private
 1602,Dutch Postcode Lottery,Private,Private
 1603,Swedish Postcode Lottery,Private,Private
 1604,People's Postcode Lottery,Private,Private
 1605,MetLife Foundation,Private,Private
 1606,MasterCard Foundation,Private,Private
-1607,Grameen CrÃ©dit Agricole Foundation,Private,Private
+1607,Grameen Crédit Agricole Foundation,Private,Private
 1608,IKEA Foundation,Private,Private
 1609,Bernard van Leer Foundation,Private,Private
 1610,MAVA Foundation,Private,Private
@@ -163,3 +169,6 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1640,Bloomberg Family Foundation,Private,Private
 1641,Susan T. Buffett Foundation,Private,Private
 1642,Howard G. Buffett Foundation,Private,Private
+1643,Open Society Foundations,Private,Private
+1646,Bezos Earth Fund,Private,Private
+1644,Botnar Foundation,Private,Private
