@@ -724,15 +724,18 @@ kenya_indicator_data,value,value,Value,N,Value
 sdg_goals,goal,goal,Goal,N,Goal
 sdg_goals,short_desc,short_desc,Short Description,C,Short Description
 sdg_goals,goal_desc,goal_desc,Goal Description,C,Goal Description
+sdg_goals,alpha_ordering,alpha_ordering,Alpha Ordering,C,Alpha Ordering
 sdg_targets,goal,goal,Goal,N,Goal
 sdg_targets,target,target,Target,C,Target
 sdg_targets,target_desc,target_desc,Target Description,C,Target Description
+sdg_targets,alpha_ordering,alpha_ordering,Alpha Ordering,C,Alpha Ordering
 sdg_indicators,target,target,Target,C,Target
 sdg_indicators,indicator,indicator,Indicator,C,Indicator
 sdg_indicators,indicator_desc,indicator_desc,Indicator Description,C,Indicator Description
 sdg_indicators,unsd_indicator_code,unsd_indicator_code,UNSD Indicator Code,C,UNSD Indicator Code
 sdg_indicators,tier,tier,Tier,C,Tier
 sdg_indicators,custodian,custodian,Custodian,C,Custodian
+sdg_indicators,alpha_ordering,alpha_ordering,Alpha Ordering,C,Alpha Ordering
 mums,year,year,Year,N,Year
 mums,donor_code,donor_code,Donor Code,N,Donor Code
 mums,donor_name,donor_name,Donor Name,C,Donor Name
