@@ -190,6 +190,8 @@ crs_current,channel_name,channel_name,Channel Name,C,Channel Name
 crs_current,channel_reported_name,channel_reported_name,Channel Reported Name,C,Channel Reported Name
 crs_current,channel_parent_category,channel_parent_category,Channel Parent Category,N,Channel Parent Category
 crs_current,geography,geography,Geography,C,Geography
+crs_current,ldc_flag,ldc_flag,LDC Flag,C,LDC Flag
+crs_current,ldc_flag_name,ldc_flag_name,LDC Flag Name,C,LDC Flag Name
 crs_current,expected_start_date,expected_start_date,Expected Start Date,C,Expected Start Date
 crs_current,completion_date,completion_date,Completion Date,C,Completion Date
 crs_current,long_description,long_description,Long Description,C,Long Description
