@@ -1,147 +1,147 @@
-country_name,di_id,iso3,fragile_2020
-Afghanistan,AF,AFG,Extremely fragile
-Albania,AL,ALB,Not fragile
-Algeria,DZ,DZA,Not fragile
-Angola,AO,AGO,Fragile
-Antigua and Barbuda,AG,ATG,Not fragile
-Argentina,AR,ARG,Not fragile
-Armenia,AM,ARM,Not fragile
-Azerbaijan,AZ,AZE,Not fragile
-Bangladesh,BD,BGD,Fragile
-Belarus,BY,BLR,Not fragile
-Belize,BZ,BLZ,Not fragile
-Benin,BJ,BEN,Not fragile
-Bhutan,BT,BTN,Not fragile
-Bolivia,BO,BOL,Not fragile
-Bosnia and Herzegovina,BA,BIH,Not fragile
-Botswana,BW,BWA,Not fragile
-Brazil,BR,BRA,Not fragile
-Burkina Faso,BF,BFA,Fragile
-Burundi,BI,BDI,Extremely fragile
-Cambodia,KH,KHM,Fragile
-Cameroon,CM,CMR,Fragile
-Cabo Verde,CV,CPV,Not fragile
-Central African Republic,CF,CAF,Extremely fragile
-Chad,TD,TCD,Extremely fragile
-Chile,CL,CHL,Not fragile
-China (People's Republic of),CN,CHN,Not fragile
-Colombia,CO,COL,Not fragile
-Comoros,KM,COM,Fragile
-Democratic Republic of the Congo,CD,COD,Extremely fragile
-Congo,CG,COG,Extremely fragile
-Cook Islands,CK,COK,Not fragile
-Costa Rica,CR,CRI,Not fragile
-Côte d'Ivoire,CI,CIV,Fragile
-Cuba,CU,CUB,Not fragile
-Djibouti,DJ,DJI,Fragile
-Dominica,DM,DMA,Not fragile
-Dominican Republic,DO,DOM,Not fragile
-Ecuador,EC,ECU,Not fragile
-Egypt,EG,EGY,Not fragile
-El Salvador,SV,SLV,Not fragile
-Equatorial Guinea,GQ,GNQ,Fragile
-Eritrea,ER,ERI,Fragile
-Ethiopia,ET,ETH,Fragile
-Fiji,FJ,FJI,Not fragile
-Gabon,GA,GAB,Not fragile
-Gambia,GM,GMB,Fragile
-Georgia,GE,GEO,Not fragile
-Ghana,GH,GHA,Not fragile
-Grenada,GD,GRD,Not fragile
-Guatemala,GT,GTM,Fragile
-Guinea,GN,GIN,Fragile
-Guinea-Bissau,GW,GNB,Fragile
-Guyana,GY,GUY,Not fragile
-Haiti,HT,HTI,Extremely fragile
-Honduras,HN,HND,Fragile
-India,IN,IND,Not fragile
-Indonesia,ID,IDN,Not fragile
-Iran,IR,IRN,Fragile
-Iraq,IQ,IRQ,Extremely fragile
-Jamaica,JM,JAM,Not fragile
-Jordan,JO,JOR,Not fragile
-Kazakhstan,KZ,KAZ,Not fragile
-Kenya,KE,KEN,Fragile
-Kiribati,KI,KIR,Not fragile
-Democratic People's Republic of Korea,KP,PRK,Fragile
-Kosovo,XK,XKX,Not fragile
-Kyrgyzstan,KG,KGZ,Not fragile
-Lao People's Democratic Republic,LA,LAO,Fragile
-Lebanon,LB,LBN,Not fragile
-Lesotho,LS,LSO,Fragile
-Liberia,LR,LBR,Fragile
-Libya,LY,LBY,Fragile
-Former Yugoslav Republic of Macedonia,MK,MKD,Not fragile
-Madagascar,MG,MDG,Fragile
-Malawi,MW,MWI,Not fragile
-Malaysia,MY,MYS,Not fragile
-Maldives,MV,MDV,Not fragile
-Mali,ML,MLI,Fragile
-Marshall Islands,MH,MHL,Not fragile
-Mauritania,MR,MRT,Fragile
-Mauritius,MU,MUS,Not fragile
-Mexico,MX,MEX,Not fragile
-Micronesia,FM,FSM,Not fragile
-Moldova,MD,MDA,Not fragile
-Mongolia,MN,MNG,Not fragile
-Montenegro,ME,MNE,Not fragile
-Montserrat,MS,MSR,Not fragile
-Morocco,MA,MAR,Not fragile
-Mozambique,MZ,MOZ,Fragile
-Myanmar,MM,MMR,Fragile
-Namibia,NA,NAM,Not fragile
-Nauru,NR,NRU,Not fragile
-Nepal,NP,NPL,Not fragile
-Nicaragua,NI,NIC,Fragile
-Niger,NE,NER,Fragile
-Nigeria,NG,NGA,Fragile
-Niue,NU,NIU,Not fragile
-Pakistan,PK,PAK,Fragile
-Palau,PW,PLW,Not fragile
-Panama,PA,PAN,Not fragile
-Papua New Guinea,PG,PNG,Fragile
-Paraguay,PY,PRY,Not fragile
-Peru,PE,PER,Not fragile
-Philippines,PH,PHL,Not fragile
-Rwanda,RW,RWA,Not fragile
-Samoa,WS,WSM,Not fragile
-Sao Tome and Principe,ST,STP,Not fragile
-Senegal,SN,SEN,Not fragile
-Serbia,RS,SRB,Not fragile
-Seychelles,SC,SYC,Not fragile
-Sierra Leone,SL,SLE,Fragile
-Solomon Islands,SB,SLB,Fragile
-Somalia,SO,SOM,Extremely fragile
-South Africa,ZA,ZAF,Not fragile
-South Sudan,SS,SSD,Extremely fragile
-Sri Lanka,LK,LKA,Not fragile
-Saint Helena,SH,SHN,Not fragile
-Saint Lucia,LC,LCA,Not fragile
-Saint Vincent and the Grenadines,VC,VCT,Not fragile
-Sudan,SD,SDN,Extremely fragile
-Suriname,SR,SUR,Not fragile
-Eswatini,SZ,SWZ,Fragile
-Syrian Arab Republic,SY,SYR,Extremely fragile
-Tajikistan,TJ,TJK,Fragile
-Tanzania,TZ,TZA,Fragile
-Thailand,TH,THA,Not fragile
-Timor-Leste,TL,TLS,Not fragile
-Togo,TG,TGO,Fragile
-Tokelau,TK,TKL,Not fragile
-Tonga,TO,TON,Not fragile
-Tunisia,TN,TUN,Not fragile
-Turkey,TR,TUR,Not fragile
-Turkmenistan,TM,TKM,Not fragile
-Tuvalu,TV,TUV,Not fragile
-Uganda,UG,UGA,Fragile
-Ukraine,UA,UKR,Not fragile
-Uruguay,UY,URY,Not fragile
-Uzbekistan,UZ,UZB,Not fragile
-Vanuatu,VU,VUT,Not fragile
-Venezuela,VE,VEN,Fragile
-Viet Nam,VN,VNM,Not fragile
-Wallis and Futuna,WF,WLF,Not fragile
-West Bank and Gaza Strip,PS,PSE,Fragile
-Yemen,YE,YEM,Extremely fragile
-Zambia,ZM,ZMB,Fragile
-Zimbabwe,ZW,ZWE,Fragile
+country_name,di_id,iso3,fragility,fragility_year
+Somalia,SO,SOM,Extremely fragile,2022
+South Sudan,SS,SSD,Extremely fragile,2022
+Afghanistan,AF,AFG,Extremely fragile,2022
+Yemen,YE,YEM,Extremely fragile,2022
+Central African Republic,CF,CAF,Extremely fragile,2022
+Democratic Republic of the Congo,CD,COD,Extremely fragile,2022
+Chad,TD,TCD,Extremely fragile,2022
+Syrian Arab Republic,SY,SYR,Extremely fragile,2022
+Congo,CG,COG,Extremely fragile,2022
+Haiti,HT,HTI,Extremely fragile,2022
+Burundi,BI,BDI,Extremely fragile,2022
+Sudan,SD,SDN,Extremely fragile,2022
+Eritrea,ER,ERI,Extremely fragile,2022
+Iraq,IQ,IRQ,Extremely fragile,2022
+Equatorial Guinea,GQ,GNQ,Extremely fragile,2022
+Libya,LY,LBY,Fragile,2022
+Angola,AO,AGO,Fragile,2022
+Cameroon,CM,CMR,Fragile,2022
+Niger,NE,NER,Fragile,2022
+Mali,ML,MLI,Fragile,2022
+Liberia,LR,LBR,Fragile,2022
+Madagascar,MG,MDG,Fragile,2022
+Uganda,UG,UGA,Fragile,2022
+Mozambique,MZ,MOZ,Fragile,2022
+Guinea,GN,GIN,Fragile,2022
+Nigeria,NG,NGA,Fragile,2022
+Papua New Guinea,PG,PNG,Fragile,2022
+Myanmar,MM,MMR,Fragile,2022
+Guinea-Bissau,GW,GNB,Fragile,2022
+Zambia,ZM,ZMB,Fragile,2022
+Comoros,KM,COM,Fragile,2022
+Mauritania,MR,MRT,Fragile,2022
+Timor-Leste,TL,TLS,Fragile,2022
+Zimbabwe,ZW,ZWE,Fragile,2022
+Burkina Faso,BF,BFA,Fragile,2022
+Ethiopia,ET,ETH,Fragile,2022
+Tajikistan,TJ,TJK,Fragile,2022
+Bangladesh,BD,BGD,Fragile,2022
+Pakistan,PK,PAK,Fragile,2022
+Sierra Leone,SL,SLE,Fragile,2022
+Cambodia,KH,KHM,Fragile,2022
+Côte d'Ivoire,CI,CIV,Fragile,2022
+Venezuela,VE,VEN,Fragile,2022
+Solomon Islands,SB,SLB,Fragile,2022
+Djibouti,DJ,DJI,Fragile,2022
+Eswatini,SZ,SWZ,Fragile,2022
+Turkmenistan,TM,TKM,Fragile,2022
+Lao People's Democratic Republic,LA,LAO,Fragile,2022
+Guatemala,GT,GTM,Fragile,2022
+Tanzania,TZ,TZA,Fragile,2022
+Kenya,KE,KEN,Fragile,2022
+Togo,TG,TGO,Fragile,2022
+Nicaragua,NI,NIC,Fragile,2022
+Benin,BJ,BEN,Fragile,2022
+Democratic People's Republic of Korea,KP,PRK,Fragile,2022
+Lesotho,LS,LSO,Fragile,2022
+Gambia,GM,GMB,Fragile,2022
+West Bank and Gaza Strip,PS,PSE,Fragile,2022
+Honduras,HN,HND,Fragile,2022
+Iran,IR,IRN,Fragile,2022
+Albania,AL,ALB,Not Fragile,2022
+Algeria,DZ,DZA,Not Fragile,2022
+Antigua and Barbuda,AG,ATG,Not Fragile,2022
+Argentina,AR,ARG,Not Fragile,2022
+Armenia,AM,ARM,Not Fragile,2022
+Azerbaijan,AZ,AZE,Not Fragile,2022
+Belarus,BY,BLR,Not Fragile,2022
+Belize,BZ,BLZ,Not Fragile,2022
+Bhutan,BT,BTN,Not Fragile,2022
+Bolivia,BO,BOL,Not Fragile,2022
+Bosnia and Herzegovina,BA,BIH,Not Fragile,2022
+Botswana,BW,BWA,Not Fragile,2022
+Brazil,BR,BRA,Not Fragile,2022
+Cabo Verde,CV,CPV,Not Fragile,2022
+Chile,CL,CHL,Not Fragile,2022
+China (People's Republic of),CN,CHN,Not Fragile,2022
+Colombia,CO,COL,Not Fragile,2022
+Cook Islands,CK,COK,Not Fragile,2022
+Costa Rica,CR,CRI,Not Fragile,2022
+Cuba,CU,CUB,Not Fragile,2022
+Dominica,DM,DMA,Not Fragile,2022
+Dominican Republic,DO,DOM,Not Fragile,2022
+Ecuador,EC,ECU,Not Fragile,2022
+Egypt,EG,EGY,Not Fragile,2022
+El Salvador,SV,SLV,Not Fragile,2022
+Fiji,FJ,FJI,Not Fragile,2022
+Gabon,GA,GAB,Not Fragile,2022
+Georgia,GE,GEO,Not Fragile,2022
+Ghana,GH,GHA,Not Fragile,2022
+Grenada,GD,GRD,Not Fragile,2022
+Guyana,GY,GUY,Not Fragile,2022
+India,IN,IND,Not Fragile,2022
+Indonesia,ID,IDN,Not Fragile,2022
+Jamaica,JM,JAM,Not Fragile,2022
+Jordan,JO,JOR,Not Fragile,2022
+Kazakhstan,KZ,KAZ,Not Fragile,2022
+Kiribati,KI,KIR,Not Fragile,2022
+Kosovo,XK,XKX,Not Fragile,2022
+Kyrgyzstan,KG,KGZ,Not Fragile,2022
+Lebanon,LB,LBN,Not Fragile,2022
+Former Yugoslav Republic of Macedonia,MK,MKD,Not Fragile,2022
+Malawi,MW,MWI,Not Fragile,2022
+Malaysia,MY,MYS,Not Fragile,2022
+Maldives,MV,MDV,Not Fragile,2022
+Marshall Islands,MH,MHL,Not Fragile,2022
+Mauritius,MU,MUS,Not Fragile,2022
+Mexico,MX,MEX,Not Fragile,2022
+Micronesia,FM,FSM,Not Fragile,2022
+Moldova,MD,MDA,Not Fragile,2022
+Mongolia,MN,MNG,Not Fragile,2022
+Montenegro,ME,MNE,Not Fragile,2022
+Montserrat,MS,MSR,Not Fragile,2022
+Morocco,MA,MAR,Not Fragile,2022
+Namibia,NA,NAM,Not Fragile,2022
+Nauru,NR,NRU,Not Fragile,2022
+Nepal,NP,NPL,Not Fragile,2022
+Niue,NU,NIU,Not Fragile,2022
+Palau,PW,PLW,Not Fragile,2022
+Panama,PA,PAN,Not Fragile,2022
+Paraguay,PY,PRY,Not Fragile,2022
+Peru,PE,PER,Not Fragile,2022
+Philippines,PH,PHL,Not Fragile,2022
+Rwanda,RW,RWA,Not Fragile,2022
+Samoa,WS,WSM,Not Fragile,2022
+Sao Tome and Principe,ST,STP,Not Fragile,2022
+Senegal,SN,SEN,Not Fragile,2022
+Serbia,RS,SRB,Not Fragile,2022
+Seychelles,SC,SYC,Not Fragile,2022
+South Africa,ZA,ZAF,Not Fragile,2022
+Sri Lanka,LK,LKA,Not Fragile,2022
+Saint Helena,SH,SHN,Not Fragile,2022
+Saint Lucia,LC,LCA,Not Fragile,2022
+Saint Vincent and the Grenadines,VC,VCT,Not Fragile,2022
+Suriname,SR,SUR,Not Fragile,2022
+Thailand,TH,THA,Not Fragile,2022
+Tokelau,TK,TKL,Not Fragile,2022
+Tonga,TO,TON,Not Fragile,2022
+Tunisia,TN,TUN,Not Fragile,2022
+Turkey,TR,TUR,Not Fragile,2022
+Tuvalu,TV,TUV,Not Fragile,2022
+Ukraine,UA,UKR,Not Fragile,2022
+Uruguay,UY,URY,Not Fragile,2022
+Uzbekistan,UZ,UZB,Not Fragile,2022
+Vanuatu,VU,VUT,Not Fragile,2022
+Viet Nam,VN,VNM,Not Fragile,2022
+Wallis and Futuna,WF,WLF,Not Fragile,2022

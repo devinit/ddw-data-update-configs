@@ -15,48 +15,25 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 20,Iceland,DAC,DAC and multi
 21,Ireland,DAC,DAC and multi
 22,Luxembourg,DAC,DAC and multi
-30,Cyprus,Non-DAC,Non-DAC
 40,Greece,DAC,DAC and multi
-45,Malta,Non-DAC,Non-DAC
 50,Spain,DAC,DAC and multi
-55,Turkey,Non-DAC,Non-DAC
 61,Slovenia,DAC,DAC and multi
-62,Croatia,Non-DAC,Non-DAC
 68,Czech Republic,DAC,DAC and multi
 69,Slovak Republic,DAC,DAC and multi
-70,Liechtenstein,Non-DAC,Non-DAC
-72,Bulgaria,Non-DAC,Non-DAC
 75,Hungary,DAC,DAC and multi
 76,Poland,DAC,DAC and multi
-77,Romania,Non-DAC,Non-DAC
-82,Estonia,Non-DAC,Non-DAC
-83,Latvia,Non-DAC,Non-DAC
-84,Lithuania,Non-DAC,Non-DAC
-87,Russia,Non-DAC,Non-DAC
-104,Nordic Development Fund,Multilateral,DAC and multi
-130,Algeria,Non-DAC,Non-DAC
-133,Libya,Non-DAC,Non-DAC
+82,Estonia,DAC,DAC and multi
+84,Lithuania,DAC,DAC and multi
 301,Canada,DAC,DAC and multi
 302,United States,DAC,DAC and multi
-358,Mexico,Non-DAC,Non-DAC
-543,Iraq,Non-DAC,Non-DAC
-546,Israel,Non-DAC,Non-DAC
-552,Kuwait,Non-DAC,Non-DAC
-561,Qatar,Non-DAC,Non-DAC
-566,Saudi Arabia,Non-DAC,Non-DAC
-576,United Arab Emirates,Non-DAC,Non-DAC
-611,Azerbaijan,Non-DAC,Non-DAC
-613,Kazakhstan,Non-DAC,Non-DAC
 701,Japan,DAC,DAC and multi
-732,Chinese Taipei,Non-DAC,Non-DAC
 742,Korea,DAC,DAC and multi
-764,Thailand,Non-DAC,Non-DAC
-765,Timor-Leste,Non-DAC,Non-DAC
 801,Australia,DAC,DAC and multi
+820,New Zealand,DAC,DAC and multi
+104,Nordic Development Fund,Multilateral,DAC and multi
 807,UNEP,Multilateral,DAC and multi
 811,Global Environment Facility,Multilateral,DAC and multi
 812,Montreal Protocol,Multilateral,DAC and multi
-820,New Zealand,DAC,DAC and multi
 901,International Bank for Reconstruction and Development,Multilateral,DAC and multi
 902,Multilateral Investment Guarantee Agency,Multilateral,DAC and multi
 903,International Finance Corporation,Multilateral,DAC and multi
@@ -121,19 +98,56 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1311,Global Alliance for Vaccines and Immunization,Multilateral,DAC and multi
 1312,Global Fund,Multilateral,DAC and multi
 1313,Global Green Growth Institute,Multilateral,DAC and multi
-1401,WTO - International Trade Centre,Multilateral,DAC and multi
-910,Central American Bank for Economic Integration,Multilateral,DAC and multi
-1406,United Nations Industrial Development Organization,Multilateral,DAC and multi
+1055,CGIAR,Multilateral,DAC and multi
+1048,Joint Sustainable Development Goals Fund,Multilateral,DAC and multi
 1039,UN Capital Development Fund,Multilateral,DAC and multi
-1041,Eurasian Fund for Stabilization and Development,Multilateral,DAC and multi
+1046,UN Women,Multilateral,DAC and multi
+1054,World Organisation for Animal Health,Multilateral,DAC and multi
+1050,WHO-Strategic Preparedness and Response Plan,Multilateral,DAC and multi
+1409,Enhanced Integrated Framework (EIF),Multilateral,DAC and multi
+1052,International Centre for Genetic Engineering and Biotechnology,Multilateral,DAC and multi
+910,Central American Bank for Economic Integration,Multilateral,DAC and multi
+1401,WTO - International Trade Centre,Multilateral,DAC and multi
 962,United Nations Conference on Trade and Development,Multilateral,DAC and multi
+1053,Asian Forest Cooperation Organisation,Multilateral,DAC and multi
+1045,North American Development Bank,Multilateral,DAC and multi
+1047,COVID-19 Response and Recovery Multi-Partner Trust Fund,Multilateral,DAC and multi
+1049,International Commission on Missing Persons,Multilateral,DAC and multi
+1404,World Trade Organisation,Multilateral,DAC and multi
+1406,United Nations Industrial Development Organization,Multilateral,DAC and multi
+1041,Eurasian Fund for Stabilization and Development,Multilateral,DAC and multi
+1044,New Development Bank,Multilateral,DAC and multi
+30,Cyprus,Non-DAC,Non-DAC
+45,Malta,Non-DAC,Non-DAC
+55,Türkiye,Non-DAC,Non-DAC
+62,Croatia,Non-DAC,Non-DAC
+70,Liechtenstein,Non-DAC,Non-DAC
+72,Bulgaria,Non-DAC,Non-DAC
+77,Romania,Non-DAC,Non-DAC
+83,Latvia,Non-DAC,Non-DAC
+87,Russia,Non-DAC,Non-DAC
+130,Algeria,Non-DAC,Non-DAC
+133,Libya,Non-DAC,Non-DAC
+358,Mexico,Non-DAC,Non-DAC
+543,Iraq,Non-DAC,Non-DAC
+546,Israel,Non-DAC,Non-DAC
+552,Kuwait,Non-DAC,Non-DAC
+561,Qatar,Non-DAC,Non-DAC
+566,Saudi Arabia,Non-DAC,Non-DAC
+576,United Arab Emirates,Non-DAC,Non-DAC
+611,Azerbaijan,Non-DAC,Non-DAC
+613,Kazakhstan,Non-DAC,Non-DAC
+732,Chinese Taipei,Non-DAC,Non-DAC
+764,Thailand,Non-DAC,Non-DAC
+765,Timor-Leste,Non-DAC,Non-DAC
+26,Monaco,Non-DAC,Non-DAC
 1601,Bill & Melinda Gates Foundation,Private,Private
 1602,Dutch Postcode Lottery,Private,Private
 1603,Swedish Postcode Lottery,Private,Private
 1604,People's Postcode Lottery,Private,Private
 1605,MetLife Foundation,Private,Private
 1606,MasterCard Foundation,Private,Private
-1607,Grameen Cr�dit Agricole Foundation,Private,Private
+1607,Grameen Crédit Agricole Foundation,Private,Private
 1608,IKEA Foundation,Private,Private
 1609,Bernard van Leer Foundation,Private,Private
 1610,MAVA Foundation,Private,Private
@@ -144,13 +158,13 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1615,Children's Investment Fund Foundation,Private,Private
 1616,Gatsby Charitable Foundation,Private,Private
 1617,Conrad N. Hilton Foundation,Private,Private
-1618,David & Lucile Packard Foundation,Private,Private
-1619,John D. & Catherine T. MacArthur Foundation,Private,Private
+1618,David and Lucile Packard Foundation,Private,Private
+1619,John D. and Catherine T. MacArthur Foundation,Private,Private
 1620,Carnegie Corporation of New York,Private,Private
 1621,Michael & Susan Dell Foundation,Private,Private
 1622,"Omidyar Network Fund, Inc.",Private,Private
 1623,Rockefeller Foundation,Private,Private
-1624,William & Flora Hewlett Foundation,Private,Private
+1624,William and Flora Hewlett Foundation,Private,Private
 1625,Arcus Foundation,Private,Private
 1626,Gordon and Betty Moore Foundation,Private,Private
 1627,Ford Foundation,Private,Private
@@ -169,6 +183,8 @@ donor_code,donor_name,donor_type,donor_dac_and_multi
 1640,Bloomberg Family Foundation,Private,Private
 1641,Susan T. Buffett Foundation,Private,Private
 1642,Howard G. Buffett Foundation,Private,Private
-1643,Open Society Foundations,Private,Private
 1646,Bezos Earth Fund,Private,Private
-1644,Botnar Foundation,Private,Private
+1647,German Postcode Lottery,Private,Private
+1643,Open Society Foundations,Private,Private
+1648,Leona M. and Harry B. Helmsley Charitable Trust,Private,Private
+1644,Fondation Botnar,Private,Private
