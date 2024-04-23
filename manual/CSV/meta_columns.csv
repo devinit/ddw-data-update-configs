@@ -139,6 +139,7 @@ wdi,year,year,Year,N,Year
 wdi,value,value,Value,N,Value
 crs_current,year,year,Year,N,Year
 crs_current,donor_code,donor_code,Donor Code,N,Donor Code
+crs_current,donor_iso3_code,donor_iso3_code,Donor ISO3 Code,C,Donor ISO3 Code
 crs_current,donor_name,donor_name,Donor Name,C,Donor Name
 crs_current,agency_code,agency_code,Agency Code,N,Agency Code
 crs_current,agency_name,agency_name,Agency Name,C,Agency Name
@@ -146,6 +147,7 @@ crs_current,crs_id,crs_id,CRS ID,C,CRS ID
 crs_current,project_number,project_number,Project Number,C,Project Number
 crs_current,initial_report,initial_report,Initial Report,N,Initial Report
 crs_current,recipient_code,recipient_code,Recipient Code,N,Recipient Code
+crs_current,recipient_iso3_code,recipient_iso3_code,Recipient ISO3 Code,C,Recipient ISO3 Code
 crs_current,recipient_name,recipient_name,Recipient Name,C,Recipient Name
 crs_current,region_code,region_code,Region Code,N,Region Code
 crs_current,region_name,region_name,Region Name,C,Region Name
